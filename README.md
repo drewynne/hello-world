@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+Hello peeps!
+
+bask in the glory of this git-hub reposi-tory.
+
+werd
+
